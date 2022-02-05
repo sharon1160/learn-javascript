@@ -54,3 +54,12 @@ console.log(typeof x); // undefined
 // Tipo null = ausencia de valor
 var y = null;
 console.log(typeof y); // object
+
+// Tipo de dato array
+var autos = ["BMV", "Audi", "Volvo"];
+console.log(autos);
+console.log(typeof autos); // object
+
+var z = "";
+console.log(z); // ''
+console.log(typeof z); // string
